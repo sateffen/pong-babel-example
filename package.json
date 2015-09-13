@@ -1,0 +1,26 @@
+{
+  "name": "pong-babel-example",
+  "version": "0.0.0",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "babel-runtime": "^5.8.20",
+    "core-js": "^1.1.4",
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-eslint": "~17.1.0",
+    "grunt-karma": "^0.12.0",
+    "grunt-webpack": "^1.0.11",
+    "isparta-loader": "^0.2.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-coverage": "^0.5.1",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-webpack": "^1.7.0",
+    "phantomjs": "^1.9.18",
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}

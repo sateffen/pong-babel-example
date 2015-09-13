@@ -1,0 +1,10 @@
+# prevent all files starting with a point, because this indicated that they are private
+.*
+
+# exclude node_modules because they are installable with npm install, so keep the repo slim
+node_modules/
+
+# gitignore and jshintrc has to get checked in, even if it starts with a point, it's not private
+!.gitignore
+!.eslintrc
+!.eslintignore
