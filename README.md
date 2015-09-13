@@ -2,7 +2,7 @@
 
 This is a VERY basic version of pong that I wrote as test for a babel structure.
 
-I wanted to check whether babel is cool in projects, so I wrote something small that is contains the most
+I wanted to check whether babel is cool in projects, so I wrote something small one that contains the most
 important things.
 
 I know that the code itself could get refactored at some points (ball collision calculation), but I got the
